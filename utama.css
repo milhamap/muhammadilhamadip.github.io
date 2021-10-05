@@ -38,6 +38,9 @@ body {
 .jumbotron p {
     color: white;
 }
+#linkind {
+    margin-left: 5px;
+}
 #profil img {
     border-radius: 6.5rem;
 }
@@ -106,6 +109,9 @@ body {
 }
 .footer-list li{
     list-style:none;
+}
+.footer-list h4 {
+    margin-left: 10px;
 }
 .footer-list img {
     cursor: pointer;

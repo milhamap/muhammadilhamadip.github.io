@@ -79,6 +79,12 @@ body {
     font-size: 25px;
     color: white;
 }
+#linkind {
+    margin-left: 5px;
+}
+.footer-list h4 {
+    margin-left: 10px;
+}
 .footer-list li{
     list-style:none;
 }
